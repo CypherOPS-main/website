@@ -5,7 +5,7 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
     var inputValue = document.querySelector('#textbox').value;
 
     // Check if the input value is equal to a particular input
-    if (inputValue === 'DADA-CON23') {
+    if (inputValue === 'DADA-CON42') {
         window.location.href = 'otherindex.html'; // Redirect to another website
     }
 });
