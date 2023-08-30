@@ -5,6 +5,8 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
 
     if (inputValue === 'DADA-CON42') {
         window.location.href = 'otherIndex.html';
+    } else {
+        alert("Successfully submitted!")
     }
 });
 

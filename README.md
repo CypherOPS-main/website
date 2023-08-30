@@ -1,0 +1,1 @@
+To access the secret terminal, you have to enter the code 'DADA-CON42' into the contact us section of the webpage
