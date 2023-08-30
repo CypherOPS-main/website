@@ -2174,38 +2174,32 @@ body {
 }
 
 #ascent {
-  background-image: url('https://cdn.discordapp.com/attachments/1144994232612966420/1145994867282026516/latest.png');
-  background-repeat: none;
-  background-size: cover;
-}
-
-#ascent {
-  background-image: url('https://cdn.discordapp.com/attachments/1144994232612966420/1145994867282026516/latest.png');
+  background-image: url('../images/maps/ascent.png');
   background-repeat: none;
   background-size: cover;
 }
 #bind {
-  background-image: url('https://cdn.discordapp.com/attachments/1144994232612966420/1146043593711157258/latest.png');
+  background-image: url('../images/maps/bind.png');
   background-repeat: none;
   background-size: cover;
 }
 #haven {
-  background-image: url('https://cdn.discordapp.com/attachments/1144994232612966420/1146043643120074762/190761-valorant-logo-guide-cartes-haven-0-article_cover_bd-2.png');
+  background-image: url('../images/maps/haven.png');
   background-repeat: none;
   background-size: cover;
 }
 #icebox {
-  background-image: url('https://cdn.discordapp.com/attachments/1144994232612966420/1146043728092463184/Icebox_Map.png');
+  background-image: url('../images/maps/icebox.png');
   background-repeat: none;
   background-size: cover;
 }
 #breeze {
-  background-image: url('https://media.discordapp.net/attachments/1144994232612966420/1146043798359658617/latest.png');
+  background-image: url('../images/maps/breeze.png');
   background-repeat: none;
   background-size: cover;
 }
 #lotus {
-    background-image: url('https://media.discordapp.net/attachments/1144994232612966420/1146043867146227792/latest.png');
+    background-image: url('../images/maps/lotus.png');
   background-repeat: none;
   background-size: cover;
 }
