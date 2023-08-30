@@ -2241,6 +2241,16 @@ textarea {
   resize:vertical;
 }
 
+textarea::placeholder{
+  color: white;
+  opacity: .5;
+}
+
+form input::placeholder{
+  color: white;
+  opacity: .5;
+}
+
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
