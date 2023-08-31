@@ -31,6 +31,11 @@ font & reset css
 reset
 --------------------------------------------- 
 */
+
+::-webkit-scrollbar {
+  display: none;
+}
+
 html,
 body,
 div,
